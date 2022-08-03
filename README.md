@@ -3,5 +3,5 @@
 ## Games Include:
 Pong,
 Dino Jump,
-Hopper,
+Jumper,
 and a game of my creation – Treasure Dungeon!
