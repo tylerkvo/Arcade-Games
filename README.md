@@ -4,4 +4,4 @@
 Pong,
 Dino Jump,
 Jumper,
-and a game of my creation – Treasure Dungeon!
+and a game of my own creation – Treasure Dungeon!
